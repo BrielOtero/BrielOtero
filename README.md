@@ -1,4 +1,4 @@
-<img src="personal-header.png" width="100%">
+<img src="personal-header.jpg" width="100%">
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?lines=full+stack+developer;nerd+of+all+trades;learning+enthusias" </p>
 
