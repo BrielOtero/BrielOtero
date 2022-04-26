@@ -15,7 +15,7 @@
   </a>
 </p>
 
-## About Me
+## 🧑‍💻 About Me
 * 👋 &nbsp;I'm Gabriel (he)
 * 🌉 &nbsp;I'm from Vigo, Galicia
 * 🧠 &nbsp;I’m currently learning programming
