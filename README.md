@@ -1,6 +1,7 @@
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
 <img src="personal-header.jpg" width="100%">
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=d3ab9d&vCenter=true&center=true&width=460&lines=full-stack+developer;nerd+of+all+trades;learning+enthusiast" </p>
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=d3ab9d&vCenter=true&center=true&width=460&lines=full-stack+developer;nerd+of+all+trades;learning+enthusiast"/></p>
 
 <p align="center">
   <a href="https://twitter.com/srmazas" target="_blank">
@@ -20,10 +21,10 @@
 * 🧠 &nbsp;I’m currently learning programming
 * 💖 &nbsp;I love learn 🛼
 
-## Technologies
+## 🛠 Technologies
 ![skills](https://skillicons.dev/icons?i=html,css,js,react,py,r,vim,git,vscode&theme=light)
 
-## My Stats
+## ⚡ My Stats
 <p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=srmazas&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 <p>
