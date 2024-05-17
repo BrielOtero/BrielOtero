@@ -19,10 +19,10 @@
 * 💖 &nbsp;I love learn 🛼
 
 ## ⚡ My Stats
-<p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=srmazas&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-<p>
+<a  href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrielOtero&theme=catppuccin_mocha&layout=compact&langs_count=30" alt="Top Langs">
+</a>
 
-<p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=srmazas.srmazas&left_color=d3ab9d&right_color=d3ab9d&left_text=profile%20views"/>
-<p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=BrielOtero&theme=catppuccin-mocha&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=DDB500)](https://git.io/streak-stats)
+
+[![BrielOtero GitHub stats](https://github-readme-stats.vercel.app/api?username=BrielOtero&show_icons=true&count_private=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
