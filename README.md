@@ -4,9 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=d3ab9d&vCenter=true&center=true&width=460&lines=full-stack+developer;nerd+of+all+trades;learning+enthusiast"/></p>
 
 <p align="center">
-  <a href="https://twitter.com/srmazas" target="_blank">
-    <img src="https://img.shields.io/badge/-@srmazas-d3ab9d?logo=twitter&logoColor=white&style=for-the-badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/gabrieloterolopez" target="_blank">
     <img src="https://img.shields.io/badge/-Gabriel Otero-d3ab9d?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
